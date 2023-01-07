@@ -75,6 +75,7 @@ color: #444343;
     display: flex;
     text-align: center;
     justify-content: space-around;
+    margin-bottom: 130px;
 }
 .web-dev{
     margin-left: 230px;
@@ -85,11 +86,115 @@ color: #444343;
 .plans-title{
     font-weight: 700;
     font-size: 30px;
+    margin-bottom: 16px;
 }
 .plan-des{
     color: #737272;
     font-weight: 500;
     font-size: 25px;
+}
+/*  */
+.web-sec-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 55px;
+}
+.web-sec{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin-bottom: 130px;
+}
+.javascript1{
+    margin-left: 160px;
+}
+.react-js{
+    margin-right: 160px;
+}
+.web-sec-head{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+.web-sec-des{
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+}
+/*  */
+.watch-img{
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 80%), url('./images/watch.png');
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    margin: 0px 370px 136px 370px;
+    min-width: 1140px;
+    min-height: 300px;
+}
+.watch-img-header{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.watch-btn-sec{
+padding: 20px 70px;
+}
+.watch-btn{
+    padding: 21px 36px 20px 36px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+}
+/*  */
+.footer{
+    background: #151414;
+    min-width: 1600px;
+    min-height: 577px;
+}
+.footer-div{
+    display: flex;
+    justify-content: space-around;
+
+}
+.footer-head{
+    color: #F8F8F8;
+    margin-bottom: 16px;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 136px;
+}
+
+.footer-details{
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.form-div-head{
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-top: 123px;
+    margin-bottom: 32px;
+}
+#mail{
+    color: #F3F3F3;
+    font-size: 18px;
+    padding: 21px 158px 22px 21px;
+    border-radius: 8px;
+    background: #151414;
+    border: 1px solid white;
+    margin-bottom: 16px;
+}
+.footer-sec-btn{
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 36px 20px 36px;
+    color: #F15B22;
+    background: #FFFFFF;
+    border-radius: 8px;
 }
 
 
