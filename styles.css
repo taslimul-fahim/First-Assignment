@@ -1,0 +1,95 @@
+/* Universal Styling */
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Styling Header Section */
+.section-header{
+    background-image: url('./images/banner1.png');
+    background-repeat: no-repeat;
+}
+.header-content{
+    text-align: right;
+    padding: 100px 230px 26px 0px;
+}
+.header-title{
+    font-weight: 700;
+    font-size: 55px;
+}
+.header-des{
+    color: #444343;
+    margin-bottom: 32px;
+}
+.btn1{
+    padding: 21px 25px 20px 26px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 166px;
+}
+
+/* Styling Main Section/Image and details */
+.my-img{
+    margin-top: 125px;
+    margin-left: 206px;
+    margin-bottom: 130px;
+}
+.imganddetail-sec{
+    display: flex;
+}
+.last-year-sum{
+    margin: 364px 322px 214px 100px;
+}
+.sum-title{
+    margin-bottom: 24px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.sum-des{
+    color: #444343;
+    margin-bottom: 16px;
+
+}
+.tick{
+    margin-right: 14px;
+    color: #16D887;
+    font-size: 23px;
+}
+.tick-detail{
+margin-bottom: 8px;
+color: #444343;
+
+}
+/* Styling Main Section/WHAT AM I GOOD AT? */
+
+.skill-detail-head{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 55px;
+}
+.plan-sec{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.web-dev{
+    margin-left: 230px;
+}
+.ecommarce{
+    margin-right: 230px;
+}
+.plans-title{
+    font-weight: 700;
+    font-size: 30px;
+}
+.plan-des{
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+
